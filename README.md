@@ -23,11 +23,10 @@ Dataset selection
 - https://www.cs.cmu.edu/~enron/
 
 ## Third Choice
-### Chicago taxi trips
+### Brazilian crime dataset
 
-- Size = 37,2 Go
+- Size = 2.9 MB (csv)
 - Schema = 
-![taxi_schema1](./img/taxi_schema1.png)
-![taxi_schema2](./img/taxi_schema2.png)
-- https://console.cloud.google.com/bigquery?project=mobile-champignons&ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips
+![brazil_schema](./img/brazil_schema.png)
+- https://zenodo.org/records/3673834
 
